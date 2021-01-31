@@ -1,0 +1,31 @@
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\bin\Debug\istakipProgrami.exe.config
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\bin\Debug\istakipProgrami.exe
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\bin\Debug\istakipProgrami.pdb
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.csprojResolveAssemblyReference.cache
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.Form1.resources
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.frm_kayit.resources
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.Properties.Resources.resources
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.csproj.GenerateResource.Cache
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.exe
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.pdb
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.frm_main.resources
+c:\users\dtr\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.frm_projeYarat.resources
+C:\Users\DTR\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.frm_gorev.resources
+C:\Users\DTR\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.frm_gorevli.resources
+C:\Users\DTR\documents\visual studio 2013\Projects\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.frm_gorevHaareketleri.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\bin\Debug\istakipProgrami.exe.config
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\bin\Debug\istakipProgrami.exe
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\bin\Debug\istakipProgrami.pdb
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.csprojAssemblyReference.cache
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.Form1.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.Properties.Resources.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.csproj.GenerateResource.cache
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.exe
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.pdb
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.forumgorevler.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.forumgorevhareketleri.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.forumgorevlipage.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.forumkayitpage.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.forummainbase.resources
+C:\Users\onurm\Desktop\Docs\istakipProgrami\istakipProgrami\obj\Debug\istakipProgrami.forumproje.resources

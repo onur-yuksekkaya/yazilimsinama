@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoWork", "TodoWork\TodoWork.csproj", "{24CBA018-680B-4823-BD8C-25039D3221DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24CBA018-680B-4823-BD8C-25039D3221DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CBA018-680B-4823-BD8C-25039D3221DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CBA018-680B-4823-BD8C-25039D3221DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CBA018-680B-4823-BD8C-25039D3221DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3AD2B19-EC20-40CB-B742-12AC28454DF9}
+	EndGlobalSection
+EndGlobal

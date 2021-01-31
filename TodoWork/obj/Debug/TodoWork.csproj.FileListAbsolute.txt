@@ -1,0 +1,32 @@
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\bin\Debug\istakipProgrami.exe.config
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\bin\Debug\istakipProgrami.exe
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\bin\Debug\istakipProgrami.pdb
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.csprojAssemblyReference.cache
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.Form1.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.forumgorevler.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.forumgorevhareketleri.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.forumgorevlipage.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.forumkayitpage.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.forummainbase.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.forumproje.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\istakipProgrami.Properties.Resources.resources
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.csproj.GenerateResource.cache
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\TodoWork.csproj.CoreCompileInputs.cache
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\istakipProgrami.exe
+C:\Users\onurm\Desktop\Docs\TodoWork\TodoWork\obj\Debug\istakipProgrami.pdb
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\bin\Debug\istakipProgrami.exe.config
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\bin\Debug\istakipProgrami.exe
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\bin\Debug\istakipProgrami.pdb
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.csprojAssemblyReference.cache
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.Form1.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.forumgorevler.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.forumgorevhareketleri.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.forumgorevlipage.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.forumkayitpage.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.forummainbase.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.forumproje.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\istakipProgrami.Properties.Resources.resources
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.csproj.GenerateResource.cache
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\TodoWork.csproj.CoreCompileInputs.cache
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\istakipProgrami.exe
+C:\Users\onurm\Desktop\Yazılım Sınama Proje_Ödev4\Yazılım Sınama Proje+Ödev4\TodoWork (3)\TodoWork\TodoWork\obj\Debug\istakipProgrami.pdb
